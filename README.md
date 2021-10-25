@@ -10,7 +10,7 @@ A tiny mockup collection of older UIs for vaporwave & retro-inspired artworks.
 - Extras (A quick dithering guide & font references to use on your mockups).
 
 ## Downloads
-You can always grab the **[latest version from here.](https://github.com/darriagada/Vapor.exe/releases/latest)**
+You can always grab the **[latest version from here.](https://github.com/darriagada/Vapor-Kit/releases/latest)**
 
 Also available as separated versions:
 
