@@ -1,5 +1,5 @@
 # Vapor.exe
-A handy little collection of older UIs for vaporwave & retro artworks in PSD files.
+A tiny mockup collection of older UIs for vaporwave & retro-inspired artworks.
 
 ### Features
 - Easily customizable.
