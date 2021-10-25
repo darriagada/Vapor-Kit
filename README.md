@@ -36,4 +36,4 @@ I'm very much nostalgic for older systems interfaces and retro artworks and some
 ### Disclaimer
 As you can see, these are not 1:1 recreations, I took some creative liberties due to retina resolutions where older UIs look tiny compared to CRT screens. But they do the trick.
 
-Have fun! ✨
+Have fun! ⚡️
