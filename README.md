@@ -1,4 +1,4 @@
-# Vapor.exe
+# Vapor Kit
 A tiny mockup collection of older UIs for vaporwave & retro-inspired artworks.
 
 ### Features
