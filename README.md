@@ -1,6 +1,8 @@
 # Vapor Kit
 A tiny mockup collection of older UIs for vaporwave & retro-inspired artworks.
 
+![Vapor Kit Screenshot](https://github.com/darriagada/Vapor-Kit/blob/main/assets/Screenshot.png)
+
 ### Features
 - Easily customizable.
 - Built with vector shapes.
@@ -25,10 +27,8 @@ To open these PSD files you'll need [Adobe Photoshop CS6 or later.](https://www.
 This work is published under the [CC0 1.0 license.](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## To-Do
-- [ ] Add some images. 
-- [ ] Add screen fx examples (Be + Git).
+- [x] Add some images. 
 - [ ] Add links to Mac & Win versions.
-- [ ] Dump some alpha source files someday.
 
 ## About
 I'm very much nostalgic for older systems interfaces and retro artworks and sometimes you need a quick template to showcase something. These are my favorite ones.
