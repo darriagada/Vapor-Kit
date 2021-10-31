@@ -1,7 +1,7 @@
 # Vapor Kit
 A tiny mockup collection of older UIs for vaporwave & retro-inspired artworks.
 
-![Vapor Kit Screenshot](https://github.com/darriagada/Vapor-Kit/blob/main/assets/Screenshot.png)
+![Screenshot_Hero](https://user-images.githubusercontent.com/65929821/139597006-750ae419-6f07-4139-bad7-b254d1d96632.png)
 
 ### Features
 - Easily customizable.
