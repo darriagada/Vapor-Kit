@@ -41,6 +41,7 @@ This work is published under the [CC0 1.0 license.](https://creativecommons.org/
 ## To-Do
 - [x] Add some images. 
 - [ ] Add links to Mac & Win versions.
+- [ ] Create Cheat sheets or GIFs for each mockup for easy usage.
 
 ## About
 I'm very much nostalgic for older interfaces and retro artworks. I wanted to create a quick UI template to showcase some experimental artworks and ended up with 5 different systems.
