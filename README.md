@@ -34,6 +34,6 @@ This work is published under the [CC0 1.0 license.](https://creativecommons.org/
 I'm very much nostalgic for older systems interfaces and retro artworks and sometimes you need a quick template to showcase something. These are my favorite ones.
 
 ### Disclaimer
-As you can see, these are not 1:1 recreations, I took some creative liberties due to retina resolutions where older UIs look tiny compared to CRT screens. But they do the trick.
+As you can see, these are not 1:1 recreations, I took some creative liberties. But they do the trick.
 
 Have fun! ⚡️
