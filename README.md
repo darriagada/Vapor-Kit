@@ -4,11 +4,11 @@ A tiny mockup collection of older UIs for vaporwave & retro-inspired artworks.
 ![Screenshot_Hero](https://user-images.githubusercontent.com/65929821/139597018-bbe9b57d-ce77-400b-9740-315d9657120e.png)
 
 ### Features
-- Easily customizable.
+- Easily customizable, everything is layered.
 - Built with vector shapes.
 - High resolution.
 - Optional screen effects.
-- Alternate styles (active, inactive windows, scrollbars, etc).
+- Alternate styles (scrollbars, active or inactive, etc).
 - Extras (A quick dithering guide & font references to use on your mockups).
 
 ## Downloads
