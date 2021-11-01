@@ -12,12 +12,12 @@ A tiny mockup collection of older UIs for vaporwave & retro-inspired artworks.
 - Extras (A quick dithering guide & font references to use on your mockups).
 
 # Downloads
-You can always grab the **[latest version from here.](https://github.com/darriagada/Vapor-Kit/releases/latest)**
+You can always grab the **[latest version from here.](https://github.com/darriagada/Vapor-Kit/releases/latest/download/Vapor_Full.zip)**
 
 Also available as separated versions:
 
-- **[Mac OS Only Pack](https://github.com/darriagada/Vapor-Kit/releases/download/v1.0.0/Vapor_Mac.zip)**
-- **[Windows Only Pack](https://github.com/darriagada/Vapor-Kit/releases/download/v1.0.0/Vapor_Win.zip)**
+- **[Mac OS Only Pack](https://github.com/darriagada/Vapor-Kit/releases/latest/download/Vapor_Mac.zip)**
+- **[Windows Only Pack](https://github.com/darriagada/Vapor-Kit/releases/latest/download/Vapor_Win.zip)**
 
 # What's inside
 ### Mac OS
