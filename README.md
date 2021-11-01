@@ -1,7 +1,7 @@
 # Vapor Kit
 A tiny mockup collection of older UIs for vaporwave & retro-inspired artworks.
 
-![Screenshot_Hero](https://user-images.githubusercontent.com/65929821/139597018-bbe9b57d-ce77-400b-9740-315d9657120e.png)
+![v1_0_0](https://user-images.githubusercontent.com/65929821/139722992-2a803583-bc42-43d6-b0cb-174df0549d70.png)
 
 ### Features
 - Easily customizable, everything is layered.
@@ -16,8 +16,8 @@ You can always grab the **[latest version from here.](https://github.com/darriag
 
 Also available as separated versions:
 
-- Mac OS Pack
-- Windows Pack
+- **[Mac OS Only Pack](https://github.com/darriagada/Vapor-Kit/releases/download/v1.0.0/Vapor_Mac.zip)**
+- **[Windows Only Pack](https://github.com/darriagada/Vapor-Kit/releases/download/v1.0.0/Vapor_Win.zip)**
 
 # What's inside
 ### Mac OS
@@ -40,8 +40,7 @@ This work is published under the [CC0 1.0 license.](https://creativecommons.org/
 
 ## To-Do
 - [x] Add some images. 
-- [ ] Add links to Mac & Win versions.
-- [ ] Create Cheat sheets or GIFs for each mockup for easy usage.
+- [x] Add links to Mac & Win versions.
 
 ## About
 I'm very much nostalgic for older interfaces and retro artworks. I wanted to create a quick UI template to showcase some experimental artworks and ended up with 5 different systems.
